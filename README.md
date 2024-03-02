@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 
 ## Video Walkthrough
-<img src='https://i.imgur.com/XBtZLwn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/Ziz2Qe9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
