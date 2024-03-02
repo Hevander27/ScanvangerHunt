@@ -24,6 +24,8 @@ The following **additional** features are implemented:
 
 - [X] List anything else that you can get done to improve the app functionality!
       . Add task from user input 
+- [X] ADD TASK
+
 
 
 ## Video Walkthrough
