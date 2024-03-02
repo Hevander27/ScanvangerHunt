@@ -1,4 +1,4 @@
-# Project 1 - *ScavangerHunt*
+# Project 1 - *Scavenger Hunt*
 
 Submitted by: **Hevander Da Costa**
 
